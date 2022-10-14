@@ -37,12 +37,14 @@ body {
 .social-media-links img {
     width:100%;
     max-width:30px;
+    min-width: auto;
     margin:0 .5%;
 }
 .main-heading {
     position:absolute;
     width:100%;
-    background: url(https://picsum.photos/id/1014/6016/4000.jpg) no-repeat;
+    min-width: auto;
+    background: url(https://i.picsum.photos/id/1056/3988/2720.jpg?hmac=qX6hO_75zxeYI7C-1TOspJ0_bRDbYInBwYeoy_z_h08) no-repeat;
     background-repeat: no-repeat;
     background-position: center;
     clip-path: polygon(
