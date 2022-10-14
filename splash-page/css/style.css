@@ -80,6 +80,7 @@ body {
 @media (min-width:600px) {
     .social-media-links img {
         max-width:40px;
+        min-width: auto;
     }
     .main-heading {
         clip-path: polygon(
