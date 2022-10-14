@@ -1,13 +1,13 @@
 @font-face {
     font-family:'Overpass';
     src: url(../fonts/Overpass-ExtraBoldItalic.ttf);
-    font-weight:400;
+    font-weight:500;
     font-style:normal;
 }
 @font-face {
     font-family:'Raleway';
     src: url(../fonts/Raleway-ExtraLightItalic.ttf);
-    font-weight:100 900;
+    font-weight:100 1000;
     font-style:normal;
 }
 :root {
