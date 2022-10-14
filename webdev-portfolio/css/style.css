@@ -26,6 +26,7 @@ html {
 
 .iframe {
 min-width: auto;
+min-height: auto;
 }
 
 body {
