@@ -119,6 +119,7 @@ body {
         background-image: url(https://picsum.photos/id/1014/6016/4000.jpg);
         background-repeat: no-repeat;
         background-position: center;
+        min-width: auto;
     }
     .main-heading {
         background:none;
