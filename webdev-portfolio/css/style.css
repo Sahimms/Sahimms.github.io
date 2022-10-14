@@ -24,8 +24,8 @@ html {
     width: 20%;
 }
 
-iframe {
-min-width: 40%;
+.iframe {
+min-width: auto;
 }
 
 body {
