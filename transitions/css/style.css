@@ -14,7 +14,7 @@
     --main-font:Raleway, sans-serif;
     --secondary-font:Montserrat, sans-serif;
     --main-color:#333;
-    --main-link-color:#754043;
+    --main-link-color:#ff000d;
     --main-background-color:#EEE;
     --top-position:35%;
     font-size:16px;
@@ -306,14 +306,14 @@ a {
     .footer-nav :nth-child(odd):focus,
     .footer-nav :nth-child(odd):active,
     .footer-nav :nth-child(odd):hover {
-        color:#333;
+        color:rgb(21, 255, 0);
         transform:rotate(2deg);
         transition:.75s ease;
     }
     .footer-nav :nth-child(even):focus,
     .footer-nav :nth-child(even):active,
     .footer-nav :nth-child(even):hover {
-        color:#333;
+        color:rgb(21, 255, 0);
         transform:rotate(-2deg);
         transition:all .75s ease;
     }
