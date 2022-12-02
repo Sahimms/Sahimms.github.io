@@ -293,7 +293,7 @@ fieldset {
 }
 
 .contact-form input[type=submit] {
-    background-color:#5c3335;
+    background-color: #ff000d;
 }
 
 .contact-form input[type=reset] {
@@ -311,7 +311,7 @@ fieldset {
 
 input[type=submit]:hover,
 input[type=reset]:hover {
-  background-color: #333;
+  background-color:rgb(21, 255, 0);
 }
 
 .contact-form {
